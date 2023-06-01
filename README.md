@@ -1,6 +1,6 @@
 # Forms From Xml
 
-Application for building forms based on XML uploads from ONAP AAI
+Application for building forms based on XML downloaded from ONAP AAI
 
 ## Available Scripts
 
